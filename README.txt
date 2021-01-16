@@ -2,7 +2,6 @@ A SimEvents Model for Real-time Traffic Merging
 
 The real-time controllers for all CAVs are based on the Control Barrier Function (CBF) approach.
 
-**Reference**: Wei Xiao, Calin Belta, and Christos G. Cassandras. Decentralized merging control in traffic networks: A control barrier function approach. In Proc. ACM/IEEE International Conference on Cyber-Physical Systems, pages 270¨C279, Montreal, Canada, 2019.
 
 ***************************************************************************************************
 Instructions:
